@@ -12,7 +12,7 @@ export default defineConfig({
         name: 'Restaurante',
         short_name: 'Restaurante',
         description: 'Aplicación del restaurante para realizar pedidos online.',
-        theme_color: '#2DD4BF',
+        theme_color: 'transparent',
         background_color: '#99F6E4',
         icons: [
           {
