@@ -12,8 +12,8 @@ export default defineConfig({
         name: 'Restaurante',
         short_name: 'Restaurante',
         description: 'Aplicación del restaurante para realizar pedidos online.',
-        theme_color: '#ff5722',
-        background_color: '#ffffff',
+        theme_color: '#2DD4BF',
+        background_color: '#99F6E4',
         icons: [
           {
             src: 'assets/vite.svg',
